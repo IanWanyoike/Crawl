@@ -24,7 +24,7 @@ class CrawlViewModelTests: QuickSpec {
             beforeEach {
                 networkService = NetworkService()
                 crawlable = Website()
-                guard let stubPath = OHPathForFile("jenga.docs.html", type(of: self)),
+                guard let stubPath = OHPathForFile("website.html", type(of: self)),
                     let crawlable = crawlable else {
                     return
                 }
