@@ -1,6 +1,6 @@
 # Crawl ![Logo](./Crawl/Utilities/Assets.xcassets/Worm36.imageset/worm@36x1.png "Crawl Logo")
 
-Crawl is an iOS application with a mission to get and display the 100th character, every 10th character and the count of words from the [Jenga API documentation website](https://developer.jengaapi.io/docs).
+Crawl is an iOS application with a mission to get and display the 100th character, every 10th character and the count of words from a website.
 
 Open **Crawl.xcworkspace** because I've used [CocoaPods](https://cocoapods.org/).
 
