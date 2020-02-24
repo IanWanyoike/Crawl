@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
 
-    @ObservedObject var viewModel = CrawlViewModel(crawlable: JengaDocs())
+    @ObservedObject var viewModel = CrawlViewModel(crawlable: Website())
 
     var body: some View {
         GeometryReader { geometry in

@@ -8,10 +8,10 @@
 
 import Foundation
 
-struct JengaDocs: Crawlable {
+struct Website: Crawlable {
     let url: URL = {
-        guard let url = URL(string: "https://developer.jengaapi.io/docs") else {
-            fatalError("Failed to build URL from valid URL string")
+        guard let url = URL(string: "Set the website url to crawl here") else {
+            fatalError("Failed to build URL from URL string")
         }
         return url
     }()

@@ -10,7 +10,7 @@
 		021085722402EEA1004365C3 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021085712402EEA1004365C3 /* Message.swift */; };
 		0210857524030699004365C3 /* FormatterExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0210857424030699004365C3 /* FormatterExtensions.swift */; };
 		02108578240311BE004365C3 /* CrawlViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02108577240311BE004365C3 /* CrawlViewModelTests.swift */; };
-		0210857C24031B78004365C3 /* jenga.docs.html in Resources */ = {isa = PBXBuildFile; fileRef = 0210857B24031B78004365C3 /* jenga.docs.html */; };
+		0210857C24031B78004365C3 /* website.html in Resources */ = {isa = PBXBuildFile; fileRef = 0210857B24031B78004365C3 /* website.html */; };
 		0210857E240328EA004365C3 /* everyTenthCharacter.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0210857D240328EA004365C3 /* everyTenthCharacter.txt */; };
 		02A1329D240285B300BEAA88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A1329C240285B300BEAA88 /* AppDelegate.swift */; };
 		02A1329F240285B300BEAA88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A1329E240285B300BEAA88 /* SceneDelegate.swift */; };
@@ -21,7 +21,7 @@
 		02A132D224028A8900BEAA88 /* CrawlViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132D124028A8900BEAA88 /* CrawlViewModel.swift */; };
 		02A132D42402942E00BEAA88 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132D32402942E00BEAA88 /* Network.swift */; };
 		02A132D62402A1FE00BEAA88 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132D52402A1FE00BEAA88 /* NetworkService.swift */; };
-		02A132D92402BB1400BEAA88 /* JengaDocs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132D82402BB1400BEAA88 /* JengaDocs.swift */; };
+		02A132D92402BB1400BEAA88 /* Website.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132D82402BB1400BEAA88 /* Website.swift */; };
 		02A132DB2402BBCE00BEAA88 /* Crawl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A132DA2402BBCE00BEAA88 /* Crawl.swift */; };
 		2C82D48C93170CC860BAAA0E /* Pods_Crawl_CrawlTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9F534B1295B92B07887FD29 /* Pods_Crawl_CrawlTests.framework */; };
 		814C0936A0BEEB9DD42B50AB /* Pods_Crawl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4ABC0556CA66D7F801D4D641 /* Pods_Crawl.framework */; };
@@ -41,7 +41,7 @@
 		021085712402EEA1004365C3 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		0210857424030699004365C3 /* FormatterExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormatterExtensions.swift; sourceTree = "<group>"; };
 		02108577240311BE004365C3 /* CrawlViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrawlViewModelTests.swift; sourceTree = "<group>"; };
-		0210857B24031B78004365C3 /* jenga.docs.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = jenga.docs.html; sourceTree = "<group>"; };
+		0210857B24031B78004365C3 /* website.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = website.html; sourceTree = "<group>"; };
 		0210857D240328EA004365C3 /* everyTenthCharacter.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = everyTenthCharacter.txt; sourceTree = "<group>"; };
 		02A13299240285B300BEAA88 /* Crawl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Crawl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02A1329C240285B300BEAA88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		02A132D124028A8900BEAA88 /* CrawlViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrawlViewModel.swift; sourceTree = "<group>"; };
 		02A132D32402942E00BEAA88 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		02A132D52402A1FE00BEAA88 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
-		02A132D82402BB1400BEAA88 /* JengaDocs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JengaDocs.swift; sourceTree = "<group>"; };
+		02A132D82402BB1400BEAA88 /* Website.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Website.swift; sourceTree = "<group>"; };
 		02A132DA2402BBCE00BEAA88 /* Crawl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crawl.swift; sourceTree = "<group>"; };
 		12B9380F0BFBAF4B87DC1876 /* Pods-Crawl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crawl.release.xcconfig"; path = "Target Support Files/Pods-Crawl/Pods-Crawl.release.xcconfig"; sourceTree = "<group>"; };
 		1A4BE0229C720762C3C486B7 /* Pods-Crawl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Crawl.debug.xcconfig"; path = "Target Support Files/Pods-Crawl/Pods-Crawl.debug.xcconfig"; sourceTree = "<group>"; };
@@ -110,7 +110,7 @@
 		0210857A24031B46004365C3 /* Stubs */ = {
 			isa = PBXGroup;
 			children = (
-				0210857B24031B78004365C3 /* jenga.docs.html */,
+				0210857B24031B78004365C3 /* website.html */,
 				0210857D240328EA004365C3 /* everyTenthCharacter.txt */,
 			);
 			path = Stubs;
@@ -209,7 +209,7 @@
 			isa = PBXGroup;
 			children = (
 				02A132DA2402BBCE00BEAA88 /* Crawl.swift */,
-				02A132D82402BB1400BEAA88 /* JengaDocs.swift */,
+				02A132D82402BB1400BEAA88 /* Website.swift */,
 				021085712402EEA1004365C3 /* Message.swift */,
 			);
 			path = Model;
@@ -336,7 +336,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0210857E240328EA004365C3 /* everyTenthCharacter.txt in Resources */,
-				0210857C24031B78004365C3 /* jenga.docs.html in Resources */,
+				0210857C24031B78004365C3 /* website.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,7 +430,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0210857524030699004365C3 /* FormatterExtensions.swift in Sources */,
-				02A132D92402BB1400BEAA88 /* JengaDocs.swift in Sources */,
+				02A132D92402BB1400BEAA88 /* Website.swift in Sources */,
 				02A132D224028A8900BEAA88 /* CrawlViewModel.swift in Sources */,
 				02A1329D240285B300BEAA88 /* AppDelegate.swift in Sources */,
 				021085722402EEA1004365C3 /* Message.swift in Sources */,

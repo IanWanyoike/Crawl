@@ -23,7 +23,7 @@ class CrawlViewModelTests: QuickSpec {
             var modelStub: HTTPStubsDescriptor?
             beforeEach {
                 networkService = NetworkService()
-                crawlable = JengaDocs()
+                crawlable = Website()
                 guard let stubPath = OHPathForFile("jenga.docs.html", type(of: self)),
                     let crawlable = crawlable else {
                     return
