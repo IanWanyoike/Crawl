@@ -4,10 +4,6 @@ Crawl is an iOS application with a mission to get and display the 100th characte
 
 Open **Crawl.xcworkspace** because I've used [CocoaPods](https://cocoapods.org/).
 
-Thoughts on implementation:
-  - Rather than perform 3 separate, simultaneous requests to the same url (to receive the same content), perform 1 request.
-  - The 100th character is the 10th element in the sequence of every tenth character in the html response string.
-
 ### Tech
 * [Swift](https://swift.org/)
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
