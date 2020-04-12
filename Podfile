@@ -16,8 +16,4 @@ target 'Crawl' do
     testPods
   end
 
-  target "CrawlUITests" do
-    testPods
-  end
-
 end
